@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557269245188",
+    "project_id": "task-ninedot",
+    "storage_bucket": "task-ninedot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557269245188:android:e0265b1881e0276f4f4451",
+        "android_client_info": {
+          "package_name": "com.nine.ninedot_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXiqXo7ccHxfS5U2MUIPKmV9mjabL4bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
